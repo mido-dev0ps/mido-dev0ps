@@ -1,9 +1,9 @@
 ### Welcome to my GitHub 🌐
 
-My name is Alexandre, I'm 21 years old and I've been a developer for over 8 years, I hope you like it!
+My name is Pedro, I'm 18 years old and I've been a developer for over 8 years, I hope you like it!
 
 > 🔭 I'm a full stack developer! <br/>
-> 💼 CTO of @MoonezPay and @BrightKodeDev
+> 💼 CTO of @MoonezPay.
 
 ### 📋 Programming Languages:
    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,6 +44,6 @@ My name is Alexandre, I'm 21 years old and I've been a developer for over 8 year
   <br/>
   <a href="https://discord.com/users/1395592142243500055" target="_blank">
     <img align="left" alt="Discord" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-    <strong>Ortex#0001</strong>
+    <strong>dev0ps#0000</strong>
   </a>
 </details>
