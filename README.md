@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 🌐
 
-My name is Pedro, I'm 18 years old and I've been a developer for over 8 years, I hope you like it!
+My name is Pedro, I'm 18 years old and I've been a developer for over 4 years, I hope you like it!
 
 > 🔭 I'm a full stack developer! <br/>
 > 💼 CTO of @MoonezPay.
